@@ -10,9 +10,9 @@ export function About() {
       <h5>Get to Know</h5>
       <h2>About Me</h2>
 
-      <div className={styles.about}>
-        <div className={`${styles.about__me}`}>
-          <div className={`${styles.about__me}--image`}>
+      <div className={`container ${styles.about}`}>
+        <div className={styles.about__me}>
+          <div className={styles['about__me--image']}>
             <img src={ME} alt="About Image" />
           </div>
         </div>
@@ -20,19 +20,19 @@ export function About() {
         <div className={styles.about__content}>
           <div className={styles.about__cards}>
             <article className={styles.about__card}>
-              <FontAwesomeIcon icon={faAward} className={`${styles.about__card}--icons`} />
+              <FontAwesomeIcon icon={faAward} className={styles['about__card--icons']} />
               <h5>Experience</h5>
               <small>3+ Years Working</small>
             </article>
 
             <article className={styles.about__card}>
-              <FontAwesomeIcon icon={faUsers} className={`${styles.about__card}--icons`} />
+              <FontAwesomeIcon icon={faUsers} className={styles['about__card--icons']} />
               <h5>Clients</h5>
               <small>200+ World wide</small>
             </article>
 
             <article className={styles.about__card}>
-              <FontAwesomeIcon icon={faFolderPlus} className={`${styles.about__card}--icons`} />
+              <FontAwesomeIcon icon={faFolderPlus} className={styles['about__card--icons']} />
               <h5>Projects</h5>
               <small>80+ Completed</small>
             </article>
