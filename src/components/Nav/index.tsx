@@ -1,4 +1,4 @@
-import { faBook, faHomeAlt, faMessage, faUserAlt } from '@fortawesome/free-solid-svg-icons';
+import { faBook, faHandshake, faHomeAlt, faMessage, faUserAlt } from '@fortawesome/free-solid-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { useState } from 'react';
 import style from './style.module.scss';
@@ -21,6 +21,9 @@ export function Nav() {
       </a>
       <a href="#experience" onClick={() => handleOnclick('#experience')} className={activeNav === '#experience' ? style.active : ''}>
         <FontAwesomeIcon icon={faBook} />
+      </a>
+      <a href="#works" onClick={() => handleOnclick('#works')} className={activeNav === '#works' ? style.active : ''}>
+        <FontAwesomeIcon icon={faHandshake} />
       </a>
       <a href="#contact" onClick={() => handleOnclick('#contact')} className={activeNav === '#contact' ? style.active : ''}>
         <FontAwesomeIcon icon={faMessage} />
