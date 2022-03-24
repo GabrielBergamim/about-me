@@ -3,7 +3,6 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import ME from '../../assets/me-about.jpg';
 import styles from './style.module.scss';
 
-
 export function About() {
   return (
     <section id="about">
