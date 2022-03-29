@@ -16,27 +16,27 @@ export function Works() {
 
           <ul className={styles.service__list}>
             <li>
-              <FontAwesomeIcon className={styles['service__list--icon']} icon={faCheck} />
+              <FontAwesomeIcon className={styles['service__list-icon']} icon={faCheck} />
               <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit.</p>
             </li>
 
             <li>
-              <FontAwesomeIcon className={styles['service__list--icon']} icon={faCheck} />
+              <FontAwesomeIcon className={styles['service__list-icon']} icon={faCheck} />
               <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit.</p>
             </li>
 
             <li>
-              <FontAwesomeIcon className={styles['service__list--icon']} icon={faCheck} />
+              <FontAwesomeIcon className={styles['service__list-icon']} icon={faCheck} />
               <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit.</p>
             </li>
 
             <li>
-              <FontAwesomeIcon className={styles['service__list--icon']} icon={faCheck} />
+              <FontAwesomeIcon className={styles['service__list-icon']} icon={faCheck} />
               <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit.</p>
             </li>
 
             <li>
-              <FontAwesomeIcon className={styles['service__list--icon']} icon={faCheck} />
+              <FontAwesomeIcon className={styles['service__list-icon']} icon={faCheck} />
               <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit.</p>
             </li>
           </ul>
@@ -49,27 +49,27 @@ export function Works() {
 
           <ul className={styles.service__list}>
             <li>
-              <FontAwesomeIcon className={styles['service__list--icon']} icon={faCheck} />
+              <FontAwesomeIcon className={styles['service__list-icon']} icon={faCheck} />
               <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit.</p>
             </li>
 
             <li>
-              <FontAwesomeIcon className={styles['service__list--icon']} icon={faCheck} />
+              <FontAwesomeIcon className={styles['service__list-icon']} icon={faCheck} />
               <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit.</p>
             </li>
 
             <li>
-              <FontAwesomeIcon className={styles['service__list--icon']} icon={faCheck} />
+              <FontAwesomeIcon className={styles['service__list-icon']} icon={faCheck} />
               <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit.</p>
             </li>
 
             <li>
-              <FontAwesomeIcon className={styles['service__list--icon']} icon={faCheck} />
+              <FontAwesomeIcon className={styles['service__list-icon']} icon={faCheck} />
               <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit.</p>
             </li>
 
             <li>
-              <FontAwesomeIcon className={styles['service__list--icon']} icon={faCheck} />
+              <FontAwesomeIcon className={styles['service__list-icon']} icon={faCheck} />
               <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit.</p>
             </li>
           </ul>
@@ -82,27 +82,27 @@ export function Works() {
 
           <ul className={styles.service__list}>
             <li>
-              <FontAwesomeIcon className={styles['service__list--icon']} icon={faCheck} />
+              <FontAwesomeIcon className={styles['service__list-icon']} icon={faCheck} />
               <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit.</p>
             </li>
 
             <li>
-              <FontAwesomeIcon className={styles['service__list--icon']} icon={faCheck} />
+              <FontAwesomeIcon className={styles['service__list-icon']} icon={faCheck} />
               <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit.</p>
             </li>
 
             <li>
-              <FontAwesomeIcon className={styles['service__list--icon']} icon={faCheck} />
+              <FontAwesomeIcon className={styles['service__list-icon']} icon={faCheck} />
               <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit.</p>
             </li>
 
             <li>
-              <FontAwesomeIcon className={styles['service__list--icon']} icon={faCheck} />
+              <FontAwesomeIcon className={styles['service__list-icon']} icon={faCheck} />
               <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit.</p>
             </li>
 
             <li>
-              <FontAwesomeIcon className={styles['service__list--icon']} icon={faCheck} />
+              <FontAwesomeIcon className={styles['service__list-icon']} icon={faCheck} />
               <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit.</p>
             </li>
           </ul>

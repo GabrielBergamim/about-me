@@ -54,7 +54,7 @@ export function Portifolio() {
       <div className={`container ${styles.portifolio}`}>
         {data.map(({ image, title, github, demo }, index) => (
           <article key={index} className={styles.portifolio__item}>
-            <div className={styles['portifolio__item--image']}>
+            <div className={styles['portifolio__item-image']}>
               <img src={image} alt="Project 1" />
             </div>
             <h3>{title}</h3>

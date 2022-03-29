@@ -14,7 +14,7 @@ export function Experience() {
 
           <div className={styles.experience__content}>
             <article className={styles.experience__details}>
-              <FontAwesomeIcon className={styles['experience__details--icon']} icon={faCheckCircle} />
+              <FontAwesomeIcon className={styles['experience__details-icon']} icon={faCheckCircle} />
               <div>
                 <h4>HTML</h4>
                 <small className='text-light'>Experienced</small>
@@ -22,7 +22,7 @@ export function Experience() {
             </article>
 
             <article className={styles.experience__details}>
-              <FontAwesomeIcon className={styles['experience__details--icon']} icon={faCheckCircle} />
+              <FontAwesomeIcon className={styles['experience__details-icon']} icon={faCheckCircle} />
               <div>
                 <h4>CSS</h4>
                 <small className='text-light'>Experienced</small>
@@ -30,7 +30,7 @@ export function Experience() {
             </article>
 
             <article className={styles.experience__details}>
-              <FontAwesomeIcon className={styles['experience__details--icon']} icon={faCheckCircle} />
+              <FontAwesomeIcon className={styles['experience__details-icon']} icon={faCheckCircle} />
               <div>
                 <h4>JavaScript</h4>
                 <small className='text-light'>Experienced</small>
@@ -38,7 +38,7 @@ export function Experience() {
             </article>
 
             <article className={styles.experience__details}>
-              <FontAwesomeIcon className={styles['experience__details--icon']} icon={faCheckCircle} />
+              <FontAwesomeIcon className={styles['experience__details-icon']} icon={faCheckCircle} />
               <div>
                 <h4>Bootstrap</h4>
                 <small className='text-light'>Experienced</small>
@@ -46,7 +46,7 @@ export function Experience() {
             </article>
 
             <article className={styles.experience__details}>
-              <FontAwesomeIcon className={styles['experience__details--icon']} icon={faCheckCircle} />
+              <FontAwesomeIcon className={styles['experience__details-icon']} icon={faCheckCircle} />
               <div>
                 <h4>React</h4>
                 <small className='text-light'>Experienced</small>
@@ -54,7 +54,7 @@ export function Experience() {
             </article>
 
             <article className={styles.experience__details}>
-              <FontAwesomeIcon className={styles['experience__details--icon']} icon={faCheckCircle} />
+              <FontAwesomeIcon className={styles['experience__details-icon']} icon={faCheckCircle} />
               <div>
                 <h4>Angular</h4>
                 <small className='text-light'>Experienced</small>
@@ -68,7 +68,7 @@ export function Experience() {
 
           <div className={styles.experience__content}>
             <article className={styles.experience__details}>
-              <FontAwesomeIcon className={styles['experience__details--icon']} icon={faCheckCircle} />
+              <FontAwesomeIcon className={styles['experience__details-icon']} icon={faCheckCircle} />
               <div>
                 <h4>Java</h4>
                 <small className='text-light'>Experienced</small>
@@ -76,7 +76,7 @@ export function Experience() {
             </article>
 
             <article className={styles.experience__details}>
-              <FontAwesomeIcon className={styles['experience__details--icon']} icon={faCheckCircle} />
+              <FontAwesomeIcon className={styles['experience__details-icon']} icon={faCheckCircle} />
               <div>
                 <h4>SpringBoot</h4>
                 <small className='text-light'>Experienced</small>
@@ -84,7 +84,7 @@ export function Experience() {
             </article>
 
             <article className={styles.experience__details}>
-              <FontAwesomeIcon className={styles['experience__details--icon']} icon={faCheckCircle} />
+              <FontAwesomeIcon className={styles['experience__details-icon']} icon={faCheckCircle} />
               <div>
                 <h4>Nodejs</h4>
                 <small className='text-light'>Experienced</small>
@@ -92,7 +92,7 @@ export function Experience() {
             </article>
 
             <article className={styles.experience__details}>
-              <FontAwesomeIcon className={styles['experience__details--icon']} icon={faCheckCircle} />
+              <FontAwesomeIcon className={styles['experience__details-icon']} icon={faCheckCircle} />
               <div>
                 <h4>Express</h4>
                 <small className='text-light'>Experienced</small>
@@ -100,7 +100,7 @@ export function Experience() {
             </article>
 
             <article className={styles.experience__details}>
-              <FontAwesomeIcon className={styles['experience__details--icon']} icon={faCheckCircle} />
+              <FontAwesomeIcon className={styles['experience__details-icon']} icon={faCheckCircle} />
               <div>
                 <h4>Postgree</h4>
                 <small className='text-light'>Experienced</small>
@@ -108,7 +108,7 @@ export function Experience() {
             </article>
 
             <article className={styles.experience__details}>
-              <FontAwesomeIcon className={styles['experience__details--icon']} icon={faCheckCircle} />
+              <FontAwesomeIcon className={styles['experience__details-icon']} icon={faCheckCircle} />
               <div>
                 <h4>Mongodb</h4>
                 <small className='text-light'>Experienced</small>
